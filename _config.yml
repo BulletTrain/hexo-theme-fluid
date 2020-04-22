@@ -366,5 +366,7 @@ links:
   items:  # intro 与 image 可省略
     - {
       title: 'GitHub',
-      link: 'https://github.com/BulletTrain'
+      intro: '个人GitHub',
+      link: 'https://github.com/BulletTrain',
+      image: '/img/favicon.png'
     }
